@@ -1,0 +1,22 @@
+﻿{
+	"kids": [{"Name": "Cassidy",
+			"Tasks": [{
+			"Name": "Piano",
+			"Description": "Practice for 5 minutes"
+		},
+		{
+			"Name": "Homework",
+			"Description": "Do your stuff"
+		}]
+	},
+   {"Name": "Grant",
+			"Tasks": [{
+			"Name": "Piano",
+			"Description": "Practice for 5 minutes"
+		},
+		{
+			"Name": "Homework",
+			"Description": "Do your stuff"
+		}]
+	}]
+}
